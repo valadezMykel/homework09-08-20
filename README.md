@@ -8,4 +8,6 @@ link to luanched [site](https://valadezmykel.github.io/homework09-08-20/).
 
 ------
 
+### Project Goals
+
 The purpose of this assignment was to refactor the html and css of an existing webpage.  
