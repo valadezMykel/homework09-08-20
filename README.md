@@ -15,3 +15,17 @@ The purpose of this project was to refactor the html of an existing webpage to i
 ------
 
 ### Project outcome
+
+Successfully created semantic meaning by applying approprate html tags.  Also cleaned up the css page by appyling the DRY rule.
+
+------
+
+### Futrue Work
+
+- Create html pages for the links on the index html
+- Create javascript to animate site pages
+
+### Contributors
+
+Mykel Valadez <valadezmykel@gmail.com>
+
