@@ -18,6 +18,9 @@ The purpose of this project was to refactor the html of an existing webpage to i
 
 Successfully created semantic meaning by applying approprate html tags.  Also cleaned up the css page by appyling the DRY rule.
 
+![Cite picture](/assets/images/Horesonn-screenshot-1.png)
+![Cite picture](/assets/images/Horesonn-screenshot-2.png)
+
 ------
 
 ### Futrue Work
