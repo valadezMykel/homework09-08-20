@@ -10,4 +10,8 @@ link to luanched [site](https://valadezmykel.github.io/homework09-08-20/).
 
 ### Project Goals
 
-The purpose of this assignment was to refactor the html and css of an existing webpage to increase symantic value.  Increasing the symantic value of the webpage will make it more accesible to users, especially userers with disabilities. 
+The purpose of this project was to refactor the html of an existing webpage to increase symantic value.  Increasing the symantic value of the webpage will make it more accesible to users, especially userers with disabilities.  To do this html tags must be replaced for ones that provide semantic meaning such as including a main, section, or artilce tag when applicable. 
+
+------
+
+### Project outcome
