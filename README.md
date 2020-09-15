@@ -18,16 +18,8 @@ The purpose of this project was to refactor the html of an existing webpage to i
 
 Successfully created semantic meaning by applying approprate html tags.  Also cleaned up the css page by appyling the DRY rule.
 
-<p>
-    <img src="assets/images/Horesonn-screenshot-1.png" width="220" height="240" />
-</p>
-<p>
-    <img src="assets\images\Horesonn-screenshot-2.png" width="220" height="240" />
-</p>
-
-![Cite picture](\assets\images\Horesonn-screenshot-1.png)
-
-![Cite picture](/assets/images/Horesonn-screenshot-2.png)
+![Cite picture](assets/images/Horeson-screenshot-1.png)
+![Cite picture](assets/images/Horeson-screenshot-2.png)
 
 
 ------
