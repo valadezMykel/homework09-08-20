@@ -8,7 +8,7 @@ link to luanched [site](https://valadezmykel.github.io/homework09-08-20/).
 
 ------
 
-### About This Repo
+## About This Repo
 
 This repo contains the html and css files for a webpage about the company Horiseon.   
 
@@ -37,15 +37,21 @@ Successfully created semantic meaning by applying approprate html tags.  Also cl
 
 -------
 
-### Instalation
+## Instalation
 
-##### API
+#### API
 
 no API need
 
-##### Install from Github
+#### Install from Github
 
 clone repository using SSH key of HTTPs
+
+-------
+
+### License
+
+No license
 
 -------
 
