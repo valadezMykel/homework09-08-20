@@ -24,7 +24,7 @@ Successfully created semantic meaning by applying approprate html tags.  Also cl
 <p>
     <img src="assets\images\Horesonn-screenshot-2.png" width="220" height="240" />
 </p>
-![Cite picture](assets/images/Horesonn-screenshot-1.png)
+![Cite picture](\assets\images\Horesonn-screenshot-1.png)
 ![Cite picture](/assets/images/Horesonn-screenshot-2.png)
 
 ------
