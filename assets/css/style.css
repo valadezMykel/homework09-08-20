@@ -42,7 +42,9 @@ p {
     font-size: 16px;
 }
 
+/* this is the backround image and has the role presentation */
 .hero {
+    
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -57,6 +59,7 @@ p {
     margin-left: 20px;
 }
 
+/* defines all three sections */
 .main-section {
     margin-bottom: 20px;
     padding: 50px;
